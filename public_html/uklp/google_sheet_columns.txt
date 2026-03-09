@@ -1,0 +1,12 @@
+oktimestamp
+name
+email
+mobile
+city
+planning_time
+qualification
+refusal
+gap
+visa_type
+utm_campaign
+utm_adset
